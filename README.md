@@ -1,10 +1,10 @@
 <p style="text-align:center;">
-<b>KUŞ TÜRLERİ<b><br /> 
-<a href="https://kenanavar.github.io/kusturleri/">KUŞ TÜRLERİ</a> <br /> 
-NESLİ TÜKENEN KUŞLAR HANGİLERİDİR VE NEREYE GÖÇ EDERLER <br /> 
-   KUŞLARIN YAYDIĞI SALGIN HASTALIKLAR NELERDİR<br />
-   HAKKIMDA <br /> 
-   İLETİŞİM <br /> 
+<a href="https://kenanavar.github.io/kusturleri/">KUŞ TÜRLERİ</a> <br />
+   <a href="https://kenanavar.github.io/kusturleri/">NESLİ TÜKENEN KUŞLAR HANGİLERİDİR VE NEREYE GÖÇ EDERLER</a> <br />
+    <a href="https://kenanavar.github.io/kusturleri/">KUŞLARIN YAYDIĞI SALGIN HASTALIKLAR NELERDİR</a> <br />
+   <a href="https://kenanavar.github.io/kusturleri/">HAKKIMDA</a> <br />
+    <a href="https://kenanavar.github.io/kusturleri/">İLETİŞİM</a> <br />
+  
    
   
 
