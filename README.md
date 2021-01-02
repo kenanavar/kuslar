@@ -8,7 +8,8 @@
    
   
 
-![kuslar](https://user-images.githubusercontent.com/62503159/103457550-9a5c2180-4d00-11eb-8ff2-578fdc2c4e37.jpg)
+![kuslar](https://user-images.githubusercontent.com/62503159/103458822-0728e900-4d0c-11eb-821c-3e91cc2ffa9e.jpg)
+
 <br />
 <br />
 <br />
