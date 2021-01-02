@@ -1,8 +1,6 @@
-<ul>
-   <li style="font-size:300%;">Kuş Türleri</li>
-   <li>Nesli Tükenmekte olan Kuş Türleri</li>
-   <li>Nereye Göç Ederler</li>
-   <li>Hakkımızda</li>
-   <li>İletişim</li>
-  
-</ul>
+<p style="text-align:center;">
+<b>Kuş Türleri<b><br /> 
+Nesli Tükenmekte olan Kuş Türleri <br /> 
+   Nereye Göç Ederler <br /> 
+   Hakkımızda <br /> 
+   İletişim <br /> </p>
